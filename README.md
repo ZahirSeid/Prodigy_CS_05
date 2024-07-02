@@ -21,8 +21,8 @@ This is a simple packet sniffer tool built using Python and the Scapy library. T
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/ZahirSeid/Prodigy_CS_03
-    cd Prodigy_CS_03
+    git clone https://github.com/ZahirSeid/Prodigy_CS_05
+    cd Prodigy_CS_05
     ```
 
 2. **Install the required libraries:**
